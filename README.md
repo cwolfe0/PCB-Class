@@ -6,3 +6,4 @@ SN74AHC1G125DBVR Digikey Page: http://www.digikey.com/scripts/DkSearch/dksus.dll
 
 OSH Park: https://oshpark.com/
 
+SHC EAGLE Library at: J:\Eagle Library\lbr (The SHC.lbr is also in this GitHub repo).
